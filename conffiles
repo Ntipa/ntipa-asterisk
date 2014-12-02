@@ -1,0 +1,7 @@
+/etc/asterisk/ari.conf
+/etc/asterisk/asterisk.conf
+/etc/asterisk/extensions.conf
+/etc/asterisk/http.conf
+/etc/asterisk/manager.conf
+/etc/asterisk/sip.conf
+/etc/asterisk/users.conf
